@@ -1,2 +1,2 @@
-# commercial-revolution
+# Commercial Revolution
 European history project on the Commercial Revolution!
