@@ -5,5 +5,5 @@ European history project on the Commercial Revolution!
 
 <hr>
 
-Sources so far:
-DevLog: 
+<p>Sources so far:</p>
+<p>DevLog: </p>
