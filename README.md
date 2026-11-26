@@ -6,3 +6,4 @@ European history project on the Commercial Revolution!
 <hr>
 
 Sources so far:
+DevLog: 
